@@ -1,0 +1,14 @@
+{
+  "name": "langchain",
+  "version": "1.0.0",
+  "description": "langachain blood-test-report ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "pdf-parse": "^1.1.1"
+  }
+}
